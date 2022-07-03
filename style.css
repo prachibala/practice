@@ -1,0 +1,14 @@
+p {
+    color: aqua;
+    font-size: bold;
+}
+.pp {
+    color: aliceblue;
+}
+div {
+    background-color: darkblue;
+    height: 150px;
+    width: 50%;
+    text-align: center;
+    padding-top: 10px;
+}
